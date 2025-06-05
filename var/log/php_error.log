@@ -1,0 +1,63 @@
+[Thu Jun  5 15:15:44 2025] PHP 8.4.4 Development Server (http://localhost:8000) started
+[Thu Jun  5 15:16:10 2025] [::1]:59156 Accepted
+[Thu Jun  5 15:16:10 2025] [::1]:59156 [200]: GET /
+[Thu Jun  5 15:16:10 2025] [::1]:59156 Closing
+[Thu Jun  5 15:16:10 2025] [::1]:59158 Accepted
+[Thu Jun  5 15:16:10 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:16:10 2025] [::1]:59158 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:16:10 2025] [::1]:59158 Closing
+[Thu Jun  5 15:16:48 2025] [::1]:59190 Accepted
+[Thu Jun  5 15:16:48 2025] [::1]:59190 [200]: GET /
+[Thu Jun  5 15:16:48 2025] [::1]:59190 Closing
+[Thu Jun  5 15:16:48 2025] [::1]:59192 Accepted
+[Thu Jun  5 15:16:48 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:16:48 2025] [::1]:59192 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:16:48 2025] [::1]:59192 Closing
+[Thu Jun  5 15:17:49 2025] [::1]:59239 Accepted
+[Thu Jun  5 15:26:25 2025] [::1]:59239 [200]: GET /
+[Thu Jun  5 15:26:25 2025] [::1]:59239 Closing
+[Thu Jun  5 15:26:25 2025] [::1]:59632 Accepted
+[Thu Jun  5 15:26:26 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Thu Jun  5 15:26:26 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:26:26 2025] [::1]:59632 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:26:26 2025] [::1]:59632 Closing
+[Thu Jun  5 15:26:30 2025] [::1]:59637 Accepted
+[Thu Jun  5 15:35:47 2025] [::1]:59637 [200]: GET /
+[Thu Jun  5 15:35:47 2025] [::1]:59637 Closing
+[Thu Jun  5 15:35:48 2025] [::1]:60168 Accepted
+[Thu Jun  5 15:35:48 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Thu Jun  5 15:35:48 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:35:48 2025] [::1]:60168 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php:21
+Stack trace:
+#0 D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
+#1 {main}
+  thrown in D:\AFCI_NEW\25ARR-325DWWM01\COURS\PHP\SkillShare\backend\src\core\Router.php on line 21
+[Thu Jun  5 15:35:48 2025] [::1]:60168 Closing
