@@ -1,0 +1,28 @@
+[Fri Jun  6 09:25:01 2025] PHP 8.4.4 Development Server (http://localhost:8000) started
+[Fri Jun  6 09:25:12 2025] [::1]:59260 Accepted
+[Fri Jun  6 09:25:56 2025] [::1]:59260 [200]: GET /
+[Fri Jun  6 09:25:56 2025] [::1]:59260 Closing
+[Fri Jun  6 09:25:56 2025] [::1]:59276 Accepted
+[Fri Jun  6 09:25:56 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:25:56 2025] [::1]:59276 [200]: GET /favicon.ico
+[Fri Jun  6 09:25:56 2025] [::1]:59276 Closing
+[Fri Jun  6 09:40:09 2025] [::1]:59563 Accepted
+[Fri Jun  6 09:40:10 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:40:10 2025] [::1]:59563 [200]: GET /
+[Fri Jun  6 09:40:10 2025] [::1]:59563 Closing
+[Fri Jun  6 09:40:10 2025] [::1]:59567 Accepted
+[Fri Jun  6 09:40:10 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:40:10 2025] [::1]:59567 [200]: GET /favicon.ico
+[Fri Jun  6 09:40:10 2025] [::1]:59567 Closing
+[Fri Jun  6 09:40:12 2025] [::1]:59571 Accepted
+[Fri Jun  6 09:40:12 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:40:12 2025] [::1]:59571 [200]: GET /
+[Fri Jun  6 09:40:12 2025] [::1]:59571 Closing
+[Fri Jun  6 09:40:13 2025] [::1]:59575 Accepted
+[Fri Jun  6 09:40:13 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:40:13 2025] [::1]:59575 [200]: GET /favicon.ico
+[Fri Jun  6 09:40:13 2025] [::1]:59575 Closing
+[Fri Jun  6 09:40:15 2025] [::1]:59580 Accepted
+[Fri Jun  6 09:40:15 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:40:15 2025] [::1]:59580 [200]: GET /.well-known/appspecific/com.chrome.devtools.json
+[Fri Jun  6 09:40:15 2025] [::1]:59580 Closing
